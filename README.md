@@ -22,3 +22,5 @@ What did the team actually even mean when they talked about all those scores?
 What did they mean by saying that algorithm is fair. 
 
 FAIR-Q attempts to develop questionnaire for AI teams that may be used by policymakers, legislators (parliamentarians) and judiciary. 
+
+FAIR-Q (latest pdf copy kept at this git, an editable word copy is kept at: https://1drv.ms/w/s!Ar_tyAhRYFK8gZNIcOCafqKHnQpS7g) 
